@@ -26,6 +26,20 @@ my_label.pack(pady = 50)
 my_button = tb.Button(text= 'Click me!', bootstyle = 'success', command = changer)
 my_button.pack(pady = 50)
 
+#Create label search
+
+#Create entry field for search
+
+#Create label # of pages
+
+#Create entry field for # of pages
+
+#Create label for 'Generate every:'
+
+#Create entry field for integers for generate every
+
+#Create entry field for unit (minutes,hours,days) in generate every
+
 
 #Create button for generating sheet
 generate_sheet_button = tb.Button(text = 'Generate sheet', bootstyle = 'success',command = )
