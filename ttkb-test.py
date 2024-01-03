@@ -26,4 +26,10 @@ my_label.pack(pady = 50)
 my_button = tb.Button(text= 'Click me!', bootstyle = 'success', command = changer)
 my_button.pack(pady = 50)
 
+
+#Create button for generating sheet
+generate_sheet_button = tb.Button(text = 'Generate sheet', bootstyle = 'success',command = )
+generate_sheet_button.pack(pady = 50)
+
+
 root.mainloop()
